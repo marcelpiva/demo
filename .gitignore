@@ -1,9 +1,0 @@
-.idea/
-.DS_Store
-node_modules/
-*.bak
-*.log
-.vscode/
-native
-dist/
-test-results
